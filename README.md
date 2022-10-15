@@ -1,4 +1,5 @@
-# <a id="user-content-硬件信息" class="anchor" aria-hidden="true" href="#硬件信息">
+# 
+<a id="user-content-硬件信息" class="anchor" aria-hidden="true" href="#硬件信息">
 <b>骨痂NUC 红眼峡谷</b>
 
 硬件信息<br>
