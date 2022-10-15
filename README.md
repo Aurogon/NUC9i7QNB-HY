@@ -14,3 +14,11 @@ BIOS设置   <br>
 -----Fast Boot: : Disabled<br>
 -----USB   ☑<br>
 --Secure Boot  : Disabled<br>
+
+
+
+ USB接口已经定制，所有usb接口均可以使用<br>
+ 声卡驱动正常<br><br><br>
+ 休眠/唤醒正常<br>
+ 蓝牙正常<br>
+ 双网口驱动正常<br>
