@@ -19,6 +19,7 @@ BIOS设置   <br>
 --Secure Boot  : Disabled<br>
 
 <b>完善情况：</b>
+</b>
 核心显卡已经驱动 <br>
  USB接口已经定制， <br>
  声卡驱动正常 <br>
