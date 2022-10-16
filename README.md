@@ -1,4 +1,4 @@
-
+![Speedtest](/pic/est.jpg)
 # <b>骨痂红眼NUC </b>
 
 注意：9i5 9i7 9i9可通用,  9v7  和9vx 可能不通用 
