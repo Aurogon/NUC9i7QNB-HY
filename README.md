@@ -5,7 +5,7 @@
 
 ## 硬件信息<br>
 <br>
-**主机**骨痂NUC 红眼峡谷<br>
+**主机：** 骨痂NUC 红眼峡谷<br>
 主板：NUC9I7QNB<br>
 无线网卡: 板载intel<br>ax200网卡<br>
 内存: 英睿达 3200MHz 16GBx2 DDR4<br>
