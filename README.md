@@ -1,5 +1,4 @@
-![About]([/pic/about.png](https://www.nucset.vip/wp-content/uploads/2022/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220908131325-1024x576.png))
-
+![About](https://www.nucset.vip/wp-content/uploads/2022/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220908131325.png) 
 # <b>骨痂红眼NUC </b>
 
 注意：9i5 9i7 9i9可通用,  9v7  和9vx 可能不通用 
