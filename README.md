@@ -41,4 +41,5 @@
 ### 其它信息
 黑苹果交流群：915124652
 
-红眼NUC购买链接：NUC红眼
+红眼NUC购买链接：[NUC红眼](https://item.taobao.com/item.htm?id=667325954098 "淘宝")
+
