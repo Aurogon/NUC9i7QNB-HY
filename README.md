@@ -34,3 +34,11 @@
 ### opencore
 - opencore版本 0.8.5
 - 
+## [安装教程](https://www.nucset.vip/906.html "下载地址")<br>
+### EFI下载：
+[点击下载](https://www.nucset.vip/906.html "下载地址")
+
+### 其它信息
+黑苹果交流群：915124652
+
+红眼NUC购买链接：NUC红眼
